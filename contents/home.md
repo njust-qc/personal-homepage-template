@@ -1,20 +1,18 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![Qichen](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Doctor's degree in Control science and engineering at the Department of Automation, Nanjing University of Science and Technology, Nanjing.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>325110010320@njust.edu.cn</code>  
+<code>18193230782@163.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Nanjing University of Science and Technology**, Doctor of Control science and engineering (2025 – now)
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**Nanjing University of Science and Technology**, Master of Systems Engineering (2024-2025)
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Nanjing University of Science and Technology**, Bachelor of Aumation (2020 – 2024)  
+
 
 #### Research Interests  
-XX, XX, XX, XX.
+MARL, Reinforcement Learning Theory, Game Theory.
